@@ -8,7 +8,7 @@ class SettingScreen extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(),
       body: const Center(
-        child: Text('Settings'),
+        child: Text('Setting'),
       ),
     );
   }
