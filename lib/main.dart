@@ -37,7 +37,7 @@ class _MyAppState extends State<MyApp> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('WhatsApp'),
+        title: const Text('WhatsApp App'),
         actions: const [
           Icon(Icons.search),
           SizedBox(
